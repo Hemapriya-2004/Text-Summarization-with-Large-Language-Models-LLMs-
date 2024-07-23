@@ -1,7 +1,7 @@
 # Text-Summarization with Large Language Models(LLM)
-##Aim: To explore how LLMs can enhance the accuracy and efficiency of summarizing extensive text data.
+## Aim: To explore how LLMs can enhance the accuracy and efficiency of summarizing extensive text data.
 ## Algotithm
-```
+
 1.Import the necessary libraries and load a pre-trained open-source LLM (e.g., GPT, BERT) from a repository such as Hugging Face's Transformers.
 
 2.Clean and preprocess the text data to ensure it's in a suitable format for the model (e.g., tokenizing the text, handling special characters).
@@ -11,7 +11,7 @@
 4.Refine and format the generated summaries as needed. This may involve detokenizing the text or adjusting the length and coherence of the summaries.
 
 5.Assess the quality of the summaries using evaluation metrics or human feedback. Optionally, fine-tune the model on specific datasets to improve performance for your use case.
-```
+
 ## Program
 ```
 !pip install --upgrade --quiet  langchain-openai tiktoken chromadb langchain
