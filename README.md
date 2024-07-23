@@ -92,3 +92,18 @@ docs = loader.load()
 print(len(docs))
 docs[0]
 ```
+## Output:
+![image](https://github.com/user-attachments/assets/0f8b415b-59e5-4b49-9864-0d27382e0b99)
+
+![image](https://github.com/user-attachments/assets/8cd6b809-b222-466b-9603-3df68e1b8b14)
+
+![image](https://github.com/user-attachments/assets/507e1773-168e-4cbc-9bc6-3efd25315a2e)
+
+![image](https://github.com/user-attachments/assets/95b79dfd-c0c3-4e69-a8af-36a4f79e27b0)
+
+## Result:
+
+
+
+
+
