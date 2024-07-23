@@ -1,6 +1,7 @@
 # Text-Summarization with Large Language Models(LLM)
-## Aim: To explore how LLMs can enhance the accuracy and efficiency of summarizing extensive text data.
-## Algotithm
+## Aim: 
+   To explore how LLMs can enhance the accuracy and efficiency of summarizing extensive text data.
+## Algorithm
 
 1.Import the necessary libraries and load a pre-trained open-source LLM (e.g., GPT, BERT) from a repository such as Hugging Face's Transformers.
 
