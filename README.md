@@ -93,17 +93,21 @@ print(len(docs))
 docs[0]
 ```
 ## Output:
+### PDF Metadata and content extraction:
 ![image](https://github.com/user-attachments/assets/0f8b415b-59e5-4b49-9864-0d27382e0b99)
+
+### Extracted Text from Hemapriya R's Resume
 
 ![image](https://github.com/user-attachments/assets/8cd6b809-b222-466b-9603-3df68e1b8b14)
 
 ![image](https://github.com/user-attachments/assets/507e1773-168e-4cbc-9bc6-3efd25315a2e)
 
+### Extracted Text from Fundamental rights textbook
+
 ![image](https://github.com/user-attachments/assets/95b79dfd-c0c3-4e69-a8af-36a4f79e27b0)
 
 ## Result:
-
-
+Thus,Large Language Models (LLMs) effectively summarize resumes by highlighting key skills and experiences, and textbooks by condensing main concepts and themes, improving readability and comprehension.
 
 
 
